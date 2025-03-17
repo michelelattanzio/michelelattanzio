@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🏙️ Live in Milan<br>👨🏻‍💻 IT Project Manager<br>📸 Photo & Video Drone<br>🏋️ Gym & Extreme Sports<br>🏕️ Scouting & Adventure<br>🚑 Rescue Man</p>
+<p align="left">🏙️ Live in Milan<br>👨🏻‍💻 IT Project Manager & Solution Architect<br>📸 Photo & Video Drone<br>🏋️ Gym & Extreme Sports<br>🏕️ Scouting & Adventure<br>🚑 Rescue Man</p>
 
 
 ###
